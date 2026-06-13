@@ -59,7 +59,7 @@ python main.py --data_path <path/to/data> --model_name VGGT
 
 If you find this repository useful, please cite:
 
-```bibtex
+```
 @InProceedings{Yuan_2026_CVPR,
     author    = {Yuan, Jiayi and Jiang, Haobo and Soh, De Wen and Zhao, Na},
     title     = {VGGT-360: Geometry-Consistent Zero-Shot Panoramic Depth Estimation},
