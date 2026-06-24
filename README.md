@@ -50,7 +50,7 @@ pip install -r requirements.txt
 
 ### 4. Run Inference
 ```
-python main.py --data_path <path/to/data> --model_name VGGT
+python main.py 
 ```
 
 
