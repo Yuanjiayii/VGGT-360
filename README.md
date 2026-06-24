@@ -34,7 +34,6 @@ First, please clone the repository to the local machine and install the required
 ```
 git clone https://github.com/Yuanjiayii/VGGT-360.git
 cd VGGT-360
-pip install -r requirements.txt
 ```
 ### 2. Data Preparation
 Please download the benchmark datasets:
