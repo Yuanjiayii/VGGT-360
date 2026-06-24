@@ -42,7 +42,7 @@ Please download the benchmark datasets:
     [Replica2K](https://github.com/manurare/360monodepth)
 , and place them in [`/datasets/data`](https://github.com/Jiang-HB/FUSER/benchmarks/datasets/data) folder.
 
-### 3. Install the 3D foundation model (We take [VGGT](https://github.com/facebookresearch/vggt) as an example)
+### 3. Install the VGGT environment
 ```
 git clone git@github.com:facebookresearch/vggt.git 
 pip install -r requirements.txt
